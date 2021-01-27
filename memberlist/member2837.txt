@@ -1,0 +1,12 @@
+|~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~| 
+|
+|		Member ID: @2837 	
+|		Member Name: Harry 	
+|		Contact Number: 01928282933 	
+|		Billing address: Washington 	
+|		Toy ID: 1 	
+|		Amount paid (MYR): RM8920 	
+|		Payment date (dd/mm/yy): 7/6/17
+|		Member Password: $12937 	
+|
+|~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~| 

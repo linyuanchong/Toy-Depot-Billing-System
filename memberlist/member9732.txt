@@ -1,0 +1,12 @@
+|~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~| 
+|
+|		Member ID: @9732 	
+|		Member Name: Robert 	
+|		Contact Number: 123123213 	
+|		Billing address: Mexico 	
+|		Toy ID: 1 	
+|		Amount paid (MYR): RM18936412893912 	
+|		Payment date (dd/mm/yy): 5/34/99 	
+|		Member Password: $18443 	
+|
+|~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~| 

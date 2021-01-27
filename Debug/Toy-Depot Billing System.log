@@ -1,0 +1,15 @@
+﻿  Toy-Depot Billing System.c
+c:\users\linyu\desktop\assignments\degree\icp\projects\toy-depot billing system\toy-depot billing system\toy-depot billing system.c(107): warning C4013: 'exit' undefined; assuming extern returning int
+c:\users\linyu\desktop\assignments\degree\icp\projects\toy-depot billing system\toy-depot billing system\toy-depot billing system.c(182): warning C4047: '!=': 'FILE *' differs in levels of indirection from 'int'
+c:\users\linyu\desktop\assignments\degree\icp\projects\toy-depot billing system\toy-depot billing system\toy-depot billing system.c(245): warning C4047: '!=': 'FILE *' differs in levels of indirection from 'int'
+c:\users\linyu\desktop\assignments\degree\icp\projects\toy-depot billing system\toy-depot billing system\toy-depot billing system.c(412): warning C4477: 'scanf' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'char *'
+  c:\users\linyu\desktop\assignments\degree\icp\projects\toy-depot billing system\toy-depot billing system\toy-depot billing system.c(412): note: consider using '%hhd' in the format string
+c:\users\linyu\desktop\assignments\degree\icp\projects\toy-depot billing system\toy-depot billing system\toy-depot billing system.c(984): warning C4477: 'scanf' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'char *'
+  c:\users\linyu\desktop\assignments\degree\icp\projects\toy-depot billing system\toy-depot billing system\toy-depot billing system.c(984): note: consider using '%hhd' in the format string
+c:\users\linyu\desktop\assignments\degree\icp\projects\toy-depot billing system\toy-depot billing system\toy-depot billing system.c(946): warning C4101: 'staff_id': unreferenced local variable
+c:\users\linyu\desktop\assignments\degree\icp\projects\toy-depot billing system\toy-depot billing system\toy-depot billing system.c(1041): warning C4477: 'scanf' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'char *'
+  c:\users\linyu\desktop\assignments\degree\icp\projects\toy-depot billing system\toy-depot billing system\toy-depot billing system.c(1041): note: consider using '%hhd' in the format string
+c:\users\linyu\desktop\assignments\degree\icp\projects\toy-depot billing system\toy-depot billing system\toy-depot billing system.c(1002): warning C4101: 'member_id': unreferenced local variable
+c:\users\linyu\desktop\assignments\degree\icp\projects\toy-depot billing system\toy-depot billing system\toy-depot billing system.c(112): warning C4717: 'main_menu': recursive on all control paths, function will cause runtime stack overflow
+c:\users\linyu\desktop\assignments\degree\icp\projects\toy-depot billing system\toy-depot billing system\toy-depot billing system.c(151): warning C4717: 'admin_login': recursive on all control paths, function will cause runtime stack overflow
+  Toy-Depot Billing System.vcxproj -> C:\Users\linyu\Desktop\Assignments\Degree\ICP\Projects\Toy-Depot Billing System\Debug\Toy-Depot Billing System.exe

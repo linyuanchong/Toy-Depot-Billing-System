@@ -1,0 +1,12 @@
+|~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~| 
+|
+|		Member ID: @8927 	
+|		Member Name: Yvonne 	
+|		Contact Number: 2193829123123 	
+|		Billing address: Boston 	
+|		Toy ID: 4 	
+|		Amount paid (MYR): RM9871 	
+|		Payment date (dd/mm/yy): 9/10/99 	
+|		Member Password: $38731 	
+|
+|~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~| 

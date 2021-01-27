@@ -1,0 +1,12 @@
+|~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~| 
+|
+|		Member ID: @9083 	
+|		Member Name: Donovan 	
+|		Contact Number: 1283783123 	
+|		Billing address: Atlantis 	
+|		Toy ID: 3 	
+|		Amount paid (MYR): RM1231 	
+|		Payment date (dd/mm/yy): 23/2312/99 	
+|		Member Password: $32133 	
+|
+|~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~| 

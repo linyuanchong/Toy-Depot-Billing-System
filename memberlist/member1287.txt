@@ -1,0 +1,12 @@
+|~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~| 
+|
+|		Member ID: @1287 	
+|		Member Name: Janelle 	
+|		Contact Number: 928390183 	
+|		Billing address: Jalan Ipoh 	
+|		Toy ID: 5 	
+|		Amount paid (MYR): RM79 	
+|		Payment date (dd/mm/yy): 29/1/19	
+|		Member Password: $23891 	
+|
+|~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~| 
